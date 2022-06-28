@@ -1,0 +1,24 @@
+@media screen and (max-width:600px) {
+    .title{
+        font-size: 35px;
+    }
+    .li{
+        margin-left: 3%;
+    }
+    .fb-icon{
+        height: 27px;
+        margin: 2px 6px;
+    }
+    .img-rihan{
+        margin-right: auto;
+        width: 96%;
+        height: auto;
+        margin-left: 2%;
+    }
+    .hr1{
+        width: 335px;
+    }
+    .hr2{
+        width: 300px;
+    }
+}

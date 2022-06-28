@@ -1,0 +1,127 @@
+/* This is header CSS */
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    background-color: rgb(49, 41, 41);
+    color: white;
+}
+header{
+    margin-top: 20px;
+}
+.title-nav{
+    display: inline-block;
+}
+.srn{
+    color: brown;
+}
+.title{
+    font-size: 45px;
+    margin-left: 22px;
+}
+.li{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 59%;
+    margin-top: 7px;
+}
+.nav{
+    display: flex;
+    flex-wrap: wrap;
+}
+.fb-icon{
+    height: 50px;
+    background-color: white;
+    border-radius: 30px;
+    border: 2px solid white;
+    margin: 0px 10px;
+}
+.fb-icon:hover{
+    border: 2px solid brown;
+}
+/* This is body css */
+.body1{
+    margin-left: 4vw;
+    margin-top: 40px;
+}
+.hello , .iam{
+    font-size: 65px;
+}
+.rihan-hasan{
+    font-size: 70px;
+    color: brown;
+}
+.gamer , .address{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.yt{
+    height: 55px;
+    width: 228px;
+    font-size: 24px;
+    border-radius: 14px;
+    background-color: brown;
+    border: 2px solid brown;
+    margin-top: 20px;
+}
+.yt:hover{
+    background-color: white;
+    color: brown;
+    border: 2px solid white;
+}
+.about-title{
+    text-align: center;
+    font-size: 48px;
+    margin: 15px;
+}
+.hr1{
+    width: 400px;
+    margin: auto;
+    height: 5px;
+    background-color: white;
+    border-radius: 10px;
+}
+.hr2{
+    width: 345px;
+    margin: auto;
+    height: 5px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.about-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 35px;
+}
+.img-rihan{
+    height: 360px;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.text-about{
+    height: 400px;
+    width: 400px;
+}
+.h1-about{
+    text-align: center;
+    padding: 30px 0px;
+}
+.p-about{
+    padding: 30px 20px;
+}
+
+footer{
+    height: 9vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.foot{
+    text-align: center;
+    padding: 20px;
+}
+.a.foot{
+    color: white;
+}
